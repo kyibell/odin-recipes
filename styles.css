@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(191, 219, 198);
+}
+
+h1 {
+    font-family: "Cedarville Cursive", cursive;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline overline;;
+    background-color: rgb(102,145,114);
+}
+
+li {
+    font-size: 30px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+
+

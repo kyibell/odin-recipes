@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(191, 219, 198);
+}
+
+li,
+h1,
+h2 {
+    text-align: center;
+}
+
+h1,
+h2 {
+    font-family: "Cedarville Cursive", cursive;
+    text-decoration: underline overline;;
+    background-color: rgb(102,145,114);
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+img {
+    border: 10px solid #ffffff;
+    border-style: dotted;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li,
+ol {
+    list-style-position: inside;
+    font-size: 20px;
+}
