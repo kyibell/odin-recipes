@@ -1,21 +1,29 @@
 body {
+    display: block;
     background-color: rgb(191, 219, 198);
+    border: 4px dotted #fff;
 }
 
 h1 {
+    display: block;
     font-family: "Cedarville Cursive", cursive;
     font-size: 50px;
     text-align: center;
-    text-decoration: underline overline;;
-    background-color: rgb(102,145,114);
+    text-decoration: underline;
+    color: white;
+    margin: 50px 200px;
+    padding: 10px;
+    background-color: rgb(34, 69, 44);
 }
 
 li {
+    display: inline-block;
+    background-color: rgb(131, 148, 136);
+    margin: 20px 150px;
+    padding: 20px;
     font-size: 30px;
     text-align: center;
-    list-style-position: inside;
 }
-
 
 
 
